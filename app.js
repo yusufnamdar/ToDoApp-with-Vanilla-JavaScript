@@ -9,7 +9,7 @@ input.addEventListener("keyup", function (e) {
     this.value = "";
   }
 });
-
+//changes to try git pull 
 //Function that will add the new tasks to "ul" parent element
 function addnewTask(value) {
   let newli = document.createElement("li");
